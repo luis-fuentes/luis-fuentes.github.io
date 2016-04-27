@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://luisfuentes.me/"/>
-  <updated>2016-04-27T07:05:54.097Z</updated>
+  <updated>2016-04-27T07:40:41.506Z</updated>
   <id>https://luisfuentes.me/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://luisfuentes.me/guia-travis-ci/"/>
     <id>https://luisfuentes.me/guia-travis-ci/</id>
     <published>2016-03-02T20:14:22.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.506Z</updated>
     
     <content type="html">&lt;h3 id=&quot;Introduccion&quot;&gt;&lt;a href=&quot;#Introduccion&quot; class=&quot;headerlink&quot; title=&quot;Introducción&quot;&gt;&lt;/a&gt;Introducción&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://travis-ci.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Travis-CI&lt;/a&gt; Es un servicio distribuido de integración continua, se usa en github para levantar y hacer tests a tu software cada vez que haces un git push. Y facilita enormemente el trabajo tanto si eres el único desarrollador o estás en un team.&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;Es gratis para proyectos de código abierto y se paga para usarlo en proyectos privados, También hay una versión propietaria que permite hacer estas implementaciones en tus equipos. &lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/Travis-CI-logo.jpg&quot; alt=&quot;travis-ci logo&quot;&gt;&lt;/p&gt;
@@ -50,7 +50,7 @@
     <link href="https://luisfuentes.me/desarrollando-con-webpack/"/>
     <id>https://luisfuentes.me/desarrollando-con-webpack/</id>
     <published>2015-08-25T01:04:25.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.502Z</updated>
     
     <content type="html">&lt;p&gt;En &lt;a href=&quot;https://luisfuentes.me/primeros-pasos-webpack/&quot;&gt;primeros pasos con Webpack&lt;/a&gt; generamos un proyecto básico pero teníamos que ejecutar &lt;em&gt;$ npm run build&lt;/em&gt; cada vez que hacíamos un cambio… y adicionalmente refrescar el browser. Con algunos simples cambios intentaremos mejorar nuestro workflow de trabajo.  &lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -123,7 +123,7 @@
     <link href="https://luisfuentes.me/primeros-pasos-webpack/"/>
     <id>https://luisfuentes.me/primeros-pasos-webpack/</id>
     <published>2015-07-13T02:45:44.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.506Z</updated>
     
     <content type="html">&lt;p&gt;Para continuar la &lt;a href=&quot;https://luisfuentes.me/introduccion-webpack/&quot;&gt;introducción&lt;/a&gt; a Webpack voy a implementar un proyecto básico.&lt;br&gt;Primero asegúrate que tienes instalado NodeJS y &lt;a href=&quot;https://luisfuentes.me/guia-npm/&quot;&gt;NPM&lt;/a&gt;. Luego en el terminal ejecutamos.&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -176,7 +176,7 @@
     <link href="https://luisfuentes.me/introduccion-webpack/"/>
     <id>https://luisfuentes.me/introduccion-webpack/</id>
     <published>2015-06-25T02:48:45.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.506Z</updated>
     
     <content type="html">&lt;p&gt;Para entender Webpack voy a hablar un poco de historia y además alternativas, hace algunos años con hacer un concat a algunos scripts bastaba, pero ahora las bibliotecas javascript han crecido demasiado y a nadie le gusta esperar a que se cargue toda la web para que esta se muestre. &lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -225,7 +225,7 @@
     <link href="https://luisfuentes.me/desarrollando-con-eslint-y-sublime-text/"/>
     <id>https://luisfuentes.me/desarrollando-con-eslint-y-sublime-text/</id>
     <published>2015-05-24T02:55:52.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.502Z</updated>
     
     <content type="html">&lt;h3 id=&quot;Introduccion&quot;&gt;&lt;a href=&quot;#Introduccion&quot; class=&quot;headerlink&quot; title=&quot;Introducción&quot;&gt;&lt;/a&gt;Introducción&lt;/h3&gt;&lt;p&gt;Me imagino que la mayoría conoce &lt;a href=&quot;http://www.sublimetext.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sublime Text&lt;/a&gt; por lo que les voy a comentar la magia que trae ESlint a nuestro workflow de desarrollo. &lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -289,7 +289,7 @@
     <link href="https://luisfuentes.me/desarrollando-sitios-estaticos-con-hugo/"/>
     <id>https://luisfuentes.me/desarrollando-sitios-estaticos-con-hugo/</id>
     <published>2015-05-08T17:45:29.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.502Z</updated>
     
     <content type="html">&lt;h3 id=&quot;Introduccion&quot;&gt;&lt;a href=&quot;#Introduccion&quot; class=&quot;headerlink&quot; title=&quot;Introducción&quot;&gt;&lt;/a&gt;Introducción&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://gohugo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hugo&lt;/a&gt; es framework para websites, técnicamente es un generador de sitios estáticos. A continuación te mostraré como instalarlo y los primeros pasos con él. &lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -325,7 +325,7 @@
     <link href="https://luisfuentes.me/guia-vagrant/"/>
     <id>https://luisfuentes.me/guia-vagrant/</id>
     <published>2015-01-15T17:48:06.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.506Z</updated>
     
     <content type="html">&lt;h4 id=&quot;Introduccion&quot;&gt;&lt;a href=&quot;#Introduccion&quot; class=&quot;headerlink&quot; title=&quot;Introducción&quot;&gt;&lt;/a&gt;Introducción&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://www.vagrantup.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Vagrant&lt;/a&gt; es una herramienta para crear entornos virtuales de desarrollo, esto viene muy bien para no instalar nada en tu equipo, compartir el mismo entorno entre varios desarrolladores, replicar la exacta configuración de tu servidor de producción en tu maquina local, Tener varios entornos de desarrollo al mismo tiempo, etc…&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -367,7 +367,7 @@
     <link href="https://luisfuentes.me/guia-npm/"/>
     <id>https://luisfuentes.me/guia-npm/</id>
     <published>2014-11-22T17:48:32.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.506Z</updated>
     
     <content type="html">&lt;h3 id=&quot;¿Que-es-NPM&quot;&gt;&lt;a href=&quot;#¿Que-es-NPM&quot; class=&quot;headerlink&quot; title=&quot;¿Que es NPM?&quot;&gt;&lt;/a&gt;¿Que es NPM?&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://www.npmjs.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;NPM&lt;/a&gt; es un gestor de paquetes para javascript, hace algunas versiones es el gestor predeterminado de nodejs y con el podremos gestionar los paquetes para nuestras aplicaciones. &lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -416,7 +416,7 @@
     <link href="https://luisfuentes.me/guia-yeoman/"/>
     <id>https://luisfuentes.me/guia-yeoman/</id>
     <published>2014-07-05T15:26:26.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.506Z</updated>
     
     <content type="html">&lt;h3 id=&quot;Introduccion&quot;&gt;&lt;a href=&quot;#Introduccion&quot; class=&quot;headerlink&quot; title=&quot;Introducción&quot;&gt;&lt;/a&gt;Introducción&lt;/h3&gt;&lt;p&gt;El Workflow de Yeoman(YO) se compone de tres herramientas fundamentales para la mejora de la productividad y la satisfacción en la construcción de una aplicación web. Estas herramientas son:&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -477,7 +477,7 @@
     <link href="https://luisfuentes.me/guia-homebrew/"/>
     <id>https://luisfuentes.me/guia-homebrew/</id>
     <published>2014-04-23T15:26:26.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.506Z</updated>
     
     <content type="html">&lt;h3 id=&quot;¿Que-es-homebrew&quot;&gt;&lt;a href=&quot;#¿Que-es-homebrew&quot; class=&quot;headerlink&quot; title=&quot;¿Que es homebrew?&quot;&gt;&lt;/a&gt;¿Que es homebrew?&lt;/h3&gt;&lt;p&gt;Homebrew es un gestor de paquetes esencial para OSX, desarrollado en ruby y para los que vienen de linux, funciona parecido a &lt;code&gt;apt-get&lt;/code&gt; o &lt;code&gt;yum&lt;/code&gt;.&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -520,7 +520,7 @@
     <link href="https://luisfuentes.me/ror-debian/"/>
     <id>https://luisfuentes.me/ror-debian/</id>
     <published>2013-06-03T16:05:53.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.506Z</updated>
     
     <content type="html">&lt;h3 id=&quot;Instalacion&quot;&gt;&lt;a href=&quot;#Instalacion&quot; class=&quot;headerlink&quot; title=&quot;Instalación&quot;&gt;&lt;/a&gt;Instalación&lt;/h3&gt;&lt;p&gt;El primer paso para instalar &lt;a href=&quot;http://rubyonrails.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RoR&lt;/a&gt; es instalar ruby, abre el terminal y:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;$ aptitude install ruby
@@ -580,7 +580,7 @@
     <link href="https://luisfuentes.me/opengts-rulefactory/"/>
     <id>https://luisfuentes.me/opengts-rulefactory/</id>
     <published>2012-08-02T16:10:17.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.506Z</updated>
     
     <content type="html">&lt;p&gt;Primero activamos las casillas en OpenGTS y los campos en la BD&lt;/p&gt;
 &lt;p&gt;En el archivo StartupInit.java modificamos:&lt;/p&gt;
@@ -619,7 +619,7 @@
     <link href="https://luisfuentes.me/instalacion-opengts-linux/"/>
     <id>https://luisfuentes.me/instalacion-opengts-linux/</id>
     <published>2012-02-24T15:52:26.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.506Z</updated>
     
     <content type="html">&lt;h3 id=&quot;Introduccion&quot;&gt;&lt;a href=&quot;#Introduccion&quot; class=&quot;headerlink&quot; title=&quot;Introducción&quot;&gt;&lt;/a&gt;Introducción&lt;/h3&gt;&lt;p&gt;OpenGTS™ (“Open GPS Tracking System”) es el primer proyecto código abierto diseñado para proporcionar mediante un entorno web el seguimiento de una “flota” de vehículos a través de GPS.&lt;/p&gt;
 &lt;p&gt;Diseñado en Java y JavaScript utilizando tecnologías tales como Apache Tomcat para el despliegue de servicios web y MySQL para el almacenamiento de datos. Como tal, OpenGTS se ejecutará en cualquier S.O. que soporte estas tecnologías (incluyendo Linux, Mac OS X, FreeBSD, OpenBSD, Solaris, Windows XP, Windows Vista, 20XX de Windows, y más).&lt;/p&gt;
@@ -722,7 +722,7 @@
     <link href="https://luisfuentes.me/hola-mundo/"/>
     <id>https://luisfuentes.me/hola-mundo/</id>
     <published>2012-01-20T15:47:41.000Z</published>
-    <updated>2016-04-27T07:05:54.097Z</updated>
+    <updated>2016-04-27T07:40:41.506Z</updated>
     
     <content type="html">&lt;figure class=&quot;highlight cs&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;HolaMundo&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;main&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;String[] args&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    System.&lt;span class=&quot;keyword&quot;&gt;out&lt;/span&gt;.println(&lt;span class=&quot;string&quot;&gt;&quot;Hola Mundo&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
