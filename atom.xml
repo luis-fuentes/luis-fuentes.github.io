@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://luisfuentes.me/"/>
-  <updated>2016-09-06T05:51:19.309Z</updated>
+  <updated>2016-09-06T05:56:07.399Z</updated>
   <id>https://luisfuentes.me/</id>
   
   <author>
@@ -16,13 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>que-tan-seguido-publicar-facebook</title>
+    <title>¿Qué tan seguido deberías publicar en Facebook?</title>
     <link href="https://luisfuentes.me/que-tan-seguido-publicar-facebook/"/>
     <id>https://luisfuentes.me/que-tan-seguido-publicar-facebook/</id>
-    <published>2016-09-06T02:38:05.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <published>2016-06-06T02:38:05.000Z</published>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="¿Que-tan-seguido-deberias-publicar-en-Facebook"><a href="#¿Que-tan-seguido-deberias-publicar-en-Facebook" class="headerlink" title="¿Qué tan seguido deberías publicar en Facebook?"></a>¿Qué tan seguido deberías publicar en Facebook?</h3><p>“Depende”, no es la respuesta que todos andan buscando.</p>
+    <content type="html"><![CDATA[<p>“Depende”, no es la respuesta que todos andan buscando.</p>
 <p>La verdad no es una respuesta incorrecta, Si depende… De la edad de tus seguidores, intereses, hábitos en facebook, las metas de tu empresa y muchas cosas más.  Pero eso no significa que no podamos recoger algunas valiosas métricas para entender cómo afecta la frecuencia de tus publicaciones a la <strong>Tasa de clics (CTR)*</strong>.</p>
 <a id="more"></a>
 <p><img src="/images/analytics.png" alt="Banner"></p>
@@ -42,7 +42,7 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;¿Que-tan-seguido-deberias-publicar-en-Facebook&quot;&gt;&lt;a href=&quot;#¿Que-tan-seguido-deberias-publicar-en-Facebook&quot; class=&quot;headerlink&quot; title=&quot;¿Qué tan seguido deberías publicar en Facebook?&quot;&gt;&lt;/a&gt;¿Qué tan seguido deberías publicar en Facebook?&lt;/h3&gt;&lt;p&gt;“Depende”, no es la respuesta que todos andan buscando.&lt;/p&gt;
+      &lt;p&gt;“Depende”, no es la respuesta que todos andan buscando.&lt;/p&gt;
 &lt;p&gt;La verdad no es una respuesta incorrecta, Si depende… De la edad de tus seguidores, intereses, hábitos en facebook, las metas de tu empresa y muchas cosas más.  Pero eso no significa que no podamos recoger algunas valiosas métricas para entender cómo afecta la frecuencia de tus publicaciones a la &lt;strong&gt;Tasa de clics (CTR)*&lt;/strong&gt;.&lt;/p&gt;
     
     </summary>
@@ -61,7 +61,7 @@
     <link href="https://luisfuentes.me/guia-travis-ci/"/>
     <id>https://luisfuentes.me/guia-travis-ci/</id>
     <published>2016-03-02T20:14:22.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h3><p><a href="https://travis-ci.org" target="_blank" rel="external">Travis-CI</a> Es un servicio distribuido de integración continua, se usa en github para levantar y hacer tests a tu software cada vez que haces un git push. Y facilita enormemente el trabajo tanto si eres el único desarrollador o estás en un team.<br><a id="more"></a><br>Es gratis para proyectos de código abierto y se paga para usarlo en proyectos privados, También hay una versión propietaria que permite hacer estas implementaciones en tus equipos. </p>
 <p><img src="/images/travis-ci-logo.jpg" alt="travis-ci logo"></p>
@@ -94,7 +94,7 @@
     <link href="https://luisfuentes.me/desarrollando-con-webpack/"/>
     <id>https://luisfuentes.me/desarrollando-con-webpack/</id>
     <published>2015-08-25T01:04:25.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<p>En <a href="https://luisfuentes.me/primeros-pasos-webpack/">primeros pasos con Webpack</a> generamos un proyecto básico pero teníamos que ejecutar <em>$ npm run build</em> cada vez que hacíamos un cambio… y adicionalmente refrescar el browser. Con algunos simples cambios intentaremos mejorar nuestro workflow de trabajo.  </p>
 <a id="more"></a>
@@ -167,7 +167,7 @@
     <link href="https://luisfuentes.me/primeros-pasos-webpack/"/>
     <id>https://luisfuentes.me/primeros-pasos-webpack/</id>
     <published>2015-07-13T02:45:44.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<p>Para continuar la <a href="https://luisfuentes.me/introduccion-webpack/">introducción</a> a Webpack voy a implementar un proyecto básico.<br>Primero asegúrate que tienes instalado NodeJS y <a href="https://luisfuentes.me/guia-npm/">NPM</a>. Luego en el terminal ejecutamos.</p>
 <a id="more"></a>
@@ -220,7 +220,7 @@
     <link href="https://luisfuentes.me/introduccion-webpack/"/>
     <id>https://luisfuentes.me/introduccion-webpack/</id>
     <published>2015-06-25T02:48:45.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<p>Para entender Webpack voy a hablar un poco de historia y además alternativas, hace algunos años con hacer un concat a algunos scripts bastaba, pero ahora las bibliotecas javascript han crecido demasiado y a nadie le gusta esperar a que se cargue toda la web para que esta se muestre. </p>
 <a id="more"></a>
@@ -269,7 +269,7 @@
     <link href="https://luisfuentes.me/desarrollando-con-eslint-y-sublime-text/"/>
     <id>https://luisfuentes.me/desarrollando-con-eslint-y-sublime-text/</id>
     <published>2015-05-24T02:55:52.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h3><p>Me imagino que la mayoría conoce <a href="http://www.sublimetext.com" target="_blank" rel="external">Sublime Text</a> por lo que les voy a comentar la magia que trae ESlint a nuestro workflow de desarrollo. </p>
 <a id="more"></a>
@@ -333,7 +333,7 @@
     <link href="https://luisfuentes.me/desarrollando-sitios-estaticos-con-hugo/"/>
     <id>https://luisfuentes.me/desarrollando-sitios-estaticos-con-hugo/</id>
     <published>2015-05-08T17:45:29.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h3><p><a href="http://gohugo.io/" target="_blank" rel="external">Hugo</a> es framework para websites, técnicamente es un generador de sitios estáticos. A continuación te mostraré como instalarlo y los primeros pasos con él. </p>
 <a id="more"></a>
@@ -369,7 +369,7 @@
     <link href="https://luisfuentes.me/guia-vagrant/"/>
     <id>https://luisfuentes.me/guia-vagrant/</id>
     <published>2015-01-15T17:48:06.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<h4 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h4><p><a href="https://www.vagrantup.com" target="_blank" rel="external">Vagrant</a> es una herramienta para crear entornos virtuales de desarrollo, esto viene muy bien para no instalar nada en tu equipo, compartir el mismo entorno entre varios desarrolladores, replicar la exacta configuración de tu servidor de producción en tu maquina local, Tener varios entornos de desarrollo al mismo tiempo, etc…</p>
 <a id="more"></a>
@@ -411,7 +411,7 @@
     <link href="https://luisfuentes.me/guia-npm/"/>
     <id>https://luisfuentes.me/guia-npm/</id>
     <published>2014-11-22T17:48:32.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<h3 id="¿Que-es-NPM"><a href="#¿Que-es-NPM" class="headerlink" title="¿Que es NPM?"></a>¿Que es NPM?</h3><p><a href="https://www.npmjs.com/" target="_blank" rel="external">NPM</a> es un gestor de paquetes para javascript, hace algunas versiones es el gestor predeterminado de nodejs y con el podremos gestionar los paquetes para nuestras aplicaciones. </p>
 <a id="more"></a>
@@ -460,7 +460,7 @@
     <link href="https://luisfuentes.me/guia-yeoman/"/>
     <id>https://luisfuentes.me/guia-yeoman/</id>
     <published>2014-07-05T15:26:26.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h3><p>El Workflow de Yeoman(YO) se compone de tres herramientas fundamentales para la mejora de la productividad y la satisfacción en la construcción de una aplicación web. Estas herramientas son:</p>
 <a id="more"></a>
@@ -521,7 +521,7 @@
     <link href="https://luisfuentes.me/guia-homebrew/"/>
     <id>https://luisfuentes.me/guia-homebrew/</id>
     <published>2014-04-23T15:26:26.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<h3 id="¿Que-es-homebrew"><a href="#¿Que-es-homebrew" class="headerlink" title="¿Que es homebrew?"></a>¿Que es homebrew?</h3><p>Homebrew es un gestor de paquetes esencial para OSX, desarrollado en ruby y para los que vienen de linux, funciona parecido a <code>apt-get</code> o <code>yum</code>.</p>
 <a id="more"></a>
@@ -564,7 +564,7 @@
     <link href="https://luisfuentes.me/ror-debian/"/>
     <id>https://luisfuentes.me/ror-debian/</id>
     <published>2013-06-03T16:05:53.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Instalacion"><a href="#Instalacion" class="headerlink" title="Instalación"></a>Instalación</h3><p>El primer paso para instalar <a href="http://rubyonrails.org" target="_blank" rel="external">RoR</a> es instalar ruby, abre el terminal y:</p>
 <pre><code>$ aptitude install ruby
@@ -624,7 +624,7 @@
     <link href="https://luisfuentes.me/opengts-rulefactory/"/>
     <id>https://luisfuentes.me/opengts-rulefactory/</id>
     <published>2012-08-02T16:10:17.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<p>Primero activamos las casillas en OpenGTS y los campos en la BD</p>
 <p>En el archivo StartupInit.java modificamos:</p>
@@ -663,7 +663,7 @@
     <link href="https://luisfuentes.me/instalacion-opengts-linux/"/>
     <id>https://luisfuentes.me/instalacion-opengts-linux/</id>
     <published>2012-02-24T15:52:26.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h3><p>OpenGTS™ (“Open GPS Tracking System”) es el primer proyecto código abierto diseñado para proporcionar mediante un entorno web el seguimiento de una “flota” de vehículos a través de GPS.</p>
 <p>Diseñado en Java y JavaScript utilizando tecnologías tales como Apache Tomcat para el despliegue de servicios web y MySQL para el almacenamiento de datos. Como tal, OpenGTS se ejecutará en cualquier S.O. que soporte estas tecnologías (incluyendo Linux, Mac OS X, FreeBSD, OpenBSD, Solaris, Windows XP, Windows Vista, 20XX de Windows, y más).</p>
@@ -766,7 +766,7 @@
     <link href="https://luisfuentes.me/hola-mundo/"/>
     <id>https://luisfuentes.me/hola-mundo/</id>
     <published>2012-01-20T15:47:41.000Z</published>
-    <updated>2016-09-06T05:51:19.309Z</updated>
+    <updated>2016-09-06T05:56:07.399Z</updated>
     
     <content type="html"><![CDATA[<figure class="highlight cs"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title">HolaMundo</span></div><div class="line">&#123;</div><div class="line">  <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span>(<span class="params">String[] args</span>)</span></div><div class="line">  &#123;</div><div class="line">    System.<span class="keyword">out</span>.println(<span class="string">"Hola Mundo"</span>);</div><div class="line">  &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 ]]></content>
