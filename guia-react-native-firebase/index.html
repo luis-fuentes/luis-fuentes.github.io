@@ -1,32 +1,30 @@
-<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> Guía React Native + Firebase · luisfuentes.me</title><meta name="description" content="Guía React Native + Firebase - Luis Fuentes"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="short icon" href="/favicon.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" type="text/css"></head><body><div id="mask" style="display: none;"><img id="mask-image" src="#" style=" "></div><div class="wrap"><header><a href="/" class="logo-link"><img src="/logo-blog.png"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">ROOT</a></li><li class="nav-list-item"><a href="/archives" target="_self" class="nav-list-link">ARCHIVOS</a></li><li class="nav-list-item"><a href="https://github.com/luis-fuentes" target="_blank" class="nav-list-link">GITHUB</a></li><li class="nav-list-item"><a href="https://gitlab.com/u/luisfuentes" target="_blank" class="nav-list-link">GITLAB</a></li><li class="nav-list-item"><a href="/atom.xml" target="_self" class="nav-list-link">RSS</a></li></ul></header><section class="container"><div class="post"><article class="post-block"><h1 class="post-title">Guía React Native + Firebase</h1><div class="post-time">11 de jul. de 2016</div><div class="post-content"><h3 id="Configuracion"><a href="#Configuracion" class="headerlink" title="Configuración"></a>Configuración</h3><p>Los primeros pasos con react native son sensillos, si ya tienes todo configurado puedes saltar estos pasos. </p>
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> Guía React Native + Firebase · luisfuentes.me</title><meta name="description" content="Guía React Native + Firebase - Luis Fuentes"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="short icon" href="/favicon.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" type="text/css"></head><body><div id="mask" style="display: none;"><img id="mask-image" src="#" style=" "></div><div class="wrap"><header><a href="/" class="logo-link"><img src="/logo-blog.png"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">ROOT</a></li><li class="nav-list-item"><a href="/archives" target="_self" class="nav-list-link">ARCHIVOS</a></li><li class="nav-list-item"><a href="https://github.com/luis-fuentes" target="_blank" class="nav-list-link">GITHUB</a></li><li class="nav-list-item"><a href="https://gitlab.com/u/luisfuentes" target="_blank" class="nav-list-link">GITLAB</a></li><li class="nav-list-item"><a href="/atom.xml" target="_self" class="nav-list-link">RSS</a></li></ul></header><section class="container"><div class="post"><article class="post-block"><h1 class="post-title">Guía React Native + Firebase</h1><div class="post-time">11 de jul. de 2016</div><div class="post-content"><h3 id="Configuracion"><a href="#Configuracion" class="headerlink" title="Configuración"></a>Configuración</h3><p>Los primeros pasos con react native son sencillos, si ya tienes todo configurado puedes saltar estos pasos. </p>
 <p>Lo primero que necesitas es <a href="http://brew.sh/" target="_blank" rel="external">Homebrew</a>, tambien necesitas <a href="https://nodejs.org/en/" target="_blank" rel="external">Node.js 4</a> o superior, el team de react native recomienda usar <a href="https://github.com/creationix/nvm#installation" target="_blank" rel="external">NVM</a> para manejar distintas versiones de Node. </p>
+<a id="more"></a>
 <p>Una vez tienes todo instalado ejecuta</p>
 <pre><code>$ brew install watchman
-$ npm install -g react-native-cli
+ $ npm install -g react-native-cli
 </code></pre><p>Y finalmente puedes iniciar una nueva app con el comando</p>
 <pre><code>$ react-native init SupermercadoApp # o el nombre que quieras. 
 </code></pre><p>Abre el proyecto con tu editor favorito</p>
 <pre><code>$ subl SupermercadoApp o atom SupermercadoApp o el que uses :P
 </code></pre><h3 id="Compilar-y-Ejecutar"><a href="#Compilar-y-Ejecutar" class="headerlink" title="Compilar y Ejecutar"></a>Compilar y Ejecutar</h3><p>Para compilar un proyecto en React Native ejecuta</p>
 <pre><code>$ react-native run-ios
-</code></pre><p>Esto ejecutara el emulador y deberias ver la siguiente pantalla:</p>
+</code></pre><p>Esto ejecutará el emulador y deberías ver la siguiente pantalla:</p>
 <p><img src="/images/rn-blank-app.png" alt="React Native Emulador"></p>
-<p>React native vien con hot-reloading instalado lo que significa que puedes editar el codigo de tu app, luego presionar <em>Cmd+R</em> y ver tus cambios instantaneamente, si eres un desarrollador iOS o de cualquier paltaforma, sabes lo genial que es esto.</p>
+<p>React native viene con hot-reloading instalado lo que significa que puedes editar el código de tu app, luego presionar <strong><em>Cmd+R</em></strong> y ver tus cambios instantáneamente, si eres un desarrollador iOS o de cualquier plataforma, sabes lo genial que es esto.</p>
 <p>Con todo configurado vamos por Firebase.</p>
-<h3 id="Configurar-Firebase"><a href="#Configurar-Firebase" class="headerlink" title="Configurar Firebase"></a>Configurar Firebase</h3><p>React Native maneja las dependencias a traves de NPM. Para instalar Firebase, ejecuta lo siguiente en el directorio raiz de tu proyecto</p>
+<h3 id="Configurar-Firebase"><a href="#Configurar-Firebase" class="headerlink" title="Configurar Firebase"></a>Configurar Firebase</h3><p>React Native maneja las dependencias a través de NPM. Para instalar Firebase, ejecuta lo siguiente en el directorio raíz de tu proyecto</p>
 <pre><code>$ npm install firebase --save
-</code></pre><p>Abre <em>index.ios.js</em> y agrega lo siguiente a la primera linea.</p>
+</code></pre><p>Abre <strong><em>index.ios.js</em></strong> y agrega lo siguiente a la primera línea.</p>
 <pre><code>import * as firebase from &apos;firebase&apos;;
-</code></pre><p>Luego arriba de el componente, inicializa firebase con tus valores de configuracion</p>
-<pre><code>// Initialize Firebase
-const firebaseConfig = {
-  apiKey: &quot;&lt;your-api-key&gt;&quot;,
-  authDomain: &quot;&lt;your-auth-domain&gt;&quot;,
-  databaseURL: &quot;&lt;your-database-url&gt;&quot;,
-  storageBucket: &quot;&lt;your-storage-bucket&gt;&quot;,,
-};
-const firebaseApp = firebase.initializeApp(firebaseConfig);
-</code></pre></div></article></div></section><footer><div class="paginator"><a href="/que-tan-seguido-publicar-facebook/" class="next">SIG</a></div><div id="disqus_thread"></div><script>var disqus_shortname = 'luisfuentes';
+</code></pre><p>Luego arriba de el componente, inicializa firebase con tus valores de configuración</p>
+<p>```<br>// Initialize Firebase<br>const firebaseConfig = {<br>  apiKey: “<your-api-key>“,<br>  authDomain: “<your-auth-domain>“,<br>  databaseURL: “<your-database-url>“,<br>  storageBucket: “<your-storage-bucket>“,,<br>};<br>const firebaseApp = firebase.initializeApp(firebaseConfig);</your-storage-bucket></your-database-url></your-auth-domain></your-api-key></p>
+<p>¿Que es <strong><em>const</em></strong>?</p>
+<p><em>const</em> se usa para referenciar un valor que nunca va a cambiar, que hace sentido en este caso porque no quieres sobreescribir el valor de la configuración de Firebase. Podemos usar esta palabra clave porque estamos usando Node.js 4 o superior. </p>
+<p>Pero una función de ES2015 no es suficiente. En vez de usar <em>React.createClass()</em> para declarar componentes, vamos a usar clases.</p>
+<h3 id="ES2015-ES6-Componentes"><a href="#ES2015-ES6-Componentes" class="headerlink" title="ES2015(ES6) Componentes"></a>ES2015(ES6) Componentes</h3><p>Continuará…</p>
+</div></article></div></section><footer><div class="paginator"><a href="/que-tan-seguido-publicar-facebook/" class="next">SIG</a></div><div id="disqus_thread"></div><script>var disqus_shortname = 'luisfuentes';
 var disqus_identifier = 'guia-react-native-firebase/';
 var disqus_title = 'Guía React Native + Firebase';
 var disqus_url = 'https://luisfuentes.me/guia-react-native-firebase/';
