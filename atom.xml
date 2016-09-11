@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://luisfuentes.me/"/>
-  <updated>2016-09-11T23:24:13.039Z</updated>
+  <updated>2016-09-11T23:45:55.274Z</updated>
   <id>https://luisfuentes.me/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="https://luisfuentes.me/guia-react-native-firebase/"/>
     <id>https://luisfuentes.me/guia-react-native-firebase/</id>
     <published>2016-07-11T19:20:33.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Configuracion"><a href="#Configuracion" class="headerlink" title="Configuración"></a>Configuración</h3><p>Los primeros pasos con react native son sencillos, si ya tienes todo configurado puedes saltar estos pasos. </p>
+    <content type="html"><![CDATA[<p><img src="/images/firebase-react.png" alt="Guía React Native + Firebase"> </p>
+<h3 id="Configuracion"><a href="#Configuracion" class="headerlink" title="Configuración"></a>Configuración</h3><p>Los primeros pasos con react native son sencillos, si ya tienes todo configurado puedes saltar estos pasos. </p>
 <p>Lo primero que necesitas es <a href="http://brew.sh/" target="_blank" rel="external">Homebrew</a>, tambien necesitas <a href="https://nodejs.org/en/" target="_blank" rel="external">Node.js 4</a> o superior, el team de react native recomienda usar <a href="https://github.com/creationix/nvm#installation" target="_blank" rel="external">NVM</a> para manejar distintas versiones de Node. </p>
 <a id="more"></a>
 <p>Una vez tienes todo instalado ejecuta</p>
@@ -43,7 +44,7 @@
 </code></pre><p>Abre <strong><em>index.ios.js</em></strong> y agrega lo siguiente a la primera línea.</p>
 <pre><code>import * as firebase from &apos;firebase&apos;;
 </code></pre><p>Luego arriba de el componente, inicializa firebase con tus valores de configuración</p>
-<p>```<br>// Initialize Firebase<br>const firebaseConfig = {<br>  apiKey: “<your-api-key>“,<br>  authDomain: “<your-auth-domain>“,<br>  databaseURL: “<your-database-url>“,<br>  storageBucket: “<your-storage-bucket>“,,<br>};<br>const firebaseApp = firebase.initializeApp(firebaseConfig);</your-storage-bucket></your-database-url></your-auth-domain></your-api-key></p>
+<figure class="highlight dts"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// Initialize Firebase</span></div><div class="line">const firebaseConfig = &#123;</div><div class="line"><span class="symbol">  apiKey:</span> <span class="string">"&lt;your-api-key&gt;"</span>,</div><div class="line"><span class="symbol">  authDomain:</span> <span class="string">"&lt;your-auth-domain&gt;"</span>,</div><div class="line"><span class="symbol">  databaseURL:</span> <span class="string">"&lt;your-database-url&gt;"</span>,</div><div class="line"><span class="symbol">  storageBucket:</span> <span class="string">"&lt;your-storage-bucket&gt;"</span>,,</div><div class="line">&#125;;</div><div class="line">const firebaseApp = firebase.initializeApp(firebaseConfig);</div></pre></td></tr></table></figure>
 <p>¿Que es <strong><em>const</em></strong>?</p>
 <p><em>const</em> se usa para referenciar un valor que nunca va a cambiar, que hace sentido en este caso porque no quieres sobreescribir el valor de la configuración de Firebase. Podemos usar esta palabra clave porque estamos usando Node.js 4 o superior. </p>
 <p>Pero una función de ES2015 no es suficiente. En vez de usar <em>React.createClass()</em> para declarar componentes, vamos a usar clases.</p>
@@ -52,7 +53,8 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;Configuracion&quot;&gt;&lt;a href=&quot;#Configuracion&quot; class=&quot;headerlink&quot; title=&quot;Configuración&quot;&gt;&lt;/a&gt;Configuración&lt;/h3&gt;&lt;p&gt;Los primeros pasos con react native son sencillos, si ya tienes todo configurado puedes saltar estos pasos. &lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/firebase-react.png&quot; alt=&quot;Guía React Native + Firebase&quot;&gt; &lt;/p&gt;
+&lt;h3 id=&quot;Configuracion&quot;&gt;&lt;a href=&quot;#Configuracion&quot; class=&quot;headerlink&quot; title=&quot;Configuración&quot;&gt;&lt;/a&gt;Configuración&lt;/h3&gt;&lt;p&gt;Los primeros pasos con react native son sencillos, si ya tienes todo configurado puedes saltar estos pasos. &lt;/p&gt;
 &lt;p&gt;Lo primero que necesitas es &lt;a href=&quot;http://brew.sh/&quot;&gt;Homebrew&lt;/a&gt;, tambien necesitas &lt;a href=&quot;https://nodejs.org/en/&quot;&gt;Node.js 4&lt;/a&gt; o superior, el team de react native recomienda usar &lt;a href=&quot;https://github.com/creationix/nvm#installation&quot;&gt;NVM&lt;/a&gt; para manejar distintas versiones de Node. &lt;/p&gt;
     
     </summary>
@@ -75,7 +77,7 @@
     <link href="https://luisfuentes.me/que-tan-seguido-publicar-facebook/"/>
     <id>https://luisfuentes.me/que-tan-seguido-publicar-facebook/</id>
     <published>2016-06-06T02:38:05.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<p>“Depende”, no es la respuesta que todos andan buscando.</p>
 <p>La verdad no es una respuesta incorrecta, Si depende… De la edad de tus seguidores, intereses, hábitos en facebook, las metas de tu empresa y muchas cosas más.  Pero eso no significa que no podamos recoger algunas valiosas métricas para entender cómo afecta la frecuencia de tus publicaciones a la <strong>Tasa de clics (CTR)*</strong>.</p>
@@ -116,7 +118,7 @@
     <link href="https://luisfuentes.me/guia-travis-ci/"/>
     <id>https://luisfuentes.me/guia-travis-ci/</id>
     <published>2016-03-02T20:14:22.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h3><p><a href="https://travis-ci.org" target="_blank" rel="external">Travis-CI</a> Es un servicio distribuido de integración continua, se usa en github para levantar y hacer tests a tu software cada vez que haces un git push. Y facilita enormemente el trabajo tanto si eres el único desarrollador o estás en un team.<br><a id="more"></a><br>Es gratis para proyectos de código abierto y se paga para usarlo en proyectos privados, También hay una versión propietaria que permite hacer estas implementaciones en tus equipos. </p>
 <p><img src="/images/travis-ci-logo.jpg" alt="travis-ci logo"></p>
@@ -157,7 +159,7 @@
     <link href="https://luisfuentes.me/desarrollando-con-webpack/"/>
     <id>https://luisfuentes.me/desarrollando-con-webpack/</id>
     <published>2015-08-25T01:04:25.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.270Z</updated>
     
     <content type="html"><![CDATA[<p>En <a href="https://luisfuentes.me/primeros-pasos-webpack/">primeros pasos con Webpack</a> generamos un proyecto básico pero teníamos que ejecutar <em>$ npm run build</em> cada vez que hacíamos un cambio… y adicionalmente refrescar el browser. Con algunos simples cambios intentaremos mejorar nuestro workflow de trabajo.  </p>
 <a id="more"></a>
@@ -230,7 +232,7 @@
     <link href="https://luisfuentes.me/primeros-pasos-webpack/"/>
     <id>https://luisfuentes.me/primeros-pasos-webpack/</id>
     <published>2015-07-13T02:45:44.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<p>Para continuar la <a href="https://luisfuentes.me/introduccion-webpack/">introducción</a> a Webpack voy a implementar un proyecto básico.<br>Primero asegúrate que tienes instalado NodeJS y <a href="https://luisfuentes.me/guia-npm/">NPM</a>. Luego en el terminal ejecutamos.</p>
 <a id="more"></a>
@@ -283,7 +285,7 @@
     <link href="https://luisfuentes.me/introduccion-webpack/"/>
     <id>https://luisfuentes.me/introduccion-webpack/</id>
     <published>2015-06-25T02:48:45.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<p>Para entender Webpack voy a hablar un poco de historia y además alternativas, hace algunos años con hacer un concat a algunos scripts bastaba, pero ahora las bibliotecas javascript han crecido demasiado y a nadie le gusta esperar a que se cargue toda la web para que esta se muestre. </p>
 <a id="more"></a>
@@ -332,7 +334,7 @@
     <link href="https://luisfuentes.me/desarrollando-con-eslint-y-sublime-text/"/>
     <id>https://luisfuentes.me/desarrollando-con-eslint-y-sublime-text/</id>
     <published>2015-05-24T02:55:52.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.270Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h3><p>Me imagino que la mayoría conoce <a href="http://www.sublimetext.com" target="_blank" rel="external">Sublime Text</a> por lo que les voy a comentar la magia que trae ESlint a nuestro workflow de desarrollo. </p>
 <a id="more"></a>
@@ -396,7 +398,7 @@
     <link href="https://luisfuentes.me/desarrollando-sitios-estaticos-con-hugo/"/>
     <id>https://luisfuentes.me/desarrollando-sitios-estaticos-con-hugo/</id>
     <published>2015-05-08T17:45:29.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.270Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h3><p><a href="http://gohugo.io/" target="_blank" rel="external">Hugo</a> es framework para websites, técnicamente es un generador de sitios estáticos. A continuación te mostraré como instalarlo y los primeros pasos con él. </p>
 <a id="more"></a>
@@ -432,7 +434,7 @@
     <link href="https://luisfuentes.me/guia-vagrant/"/>
     <id>https://luisfuentes.me/guia-vagrant/</id>
     <published>2015-01-15T17:48:06.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<h4 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h4><p><a href="https://www.vagrantup.com" target="_blank" rel="external">Vagrant</a> es una herramienta para crear entornos virtuales de desarrollo, esto viene muy bien para no instalar nada en tu equipo, compartir el mismo entorno entre varios desarrolladores, replicar la exacta configuración de tu servidor de producción en tu maquina local, Tener varios entornos de desarrollo al mismo tiempo, etc…</p>
 <a id="more"></a>
@@ -474,7 +476,7 @@
     <link href="https://luisfuentes.me/guia-npm/"/>
     <id>https://luisfuentes.me/guia-npm/</id>
     <published>2014-11-22T17:48:32.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<h3 id="¿Que-es-NPM"><a href="#¿Que-es-NPM" class="headerlink" title="¿Que es NPM?"></a>¿Que es NPM?</h3><p><a href="https://www.npmjs.com/" target="_blank" rel="external">NPM</a> es un gestor de paquetes para javascript, hace algunas versiones es el gestor predeterminado de nodejs y con el podremos gestionar los paquetes para nuestras aplicaciones. </p>
 <a id="more"></a>
@@ -523,7 +525,7 @@
     <link href="https://luisfuentes.me/guia-yeoman/"/>
     <id>https://luisfuentes.me/guia-yeoman/</id>
     <published>2014-07-05T15:26:26.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h3><p>El Workflow de Yeoman(YO) se compone de tres herramientas fundamentales para la mejora de la productividad y la satisfacción en la construcción de una aplicación web. Estas herramientas son:</p>
 <a id="more"></a>
@@ -584,7 +586,7 @@
     <link href="https://luisfuentes.me/guia-homebrew/"/>
     <id>https://luisfuentes.me/guia-homebrew/</id>
     <published>2014-04-23T15:26:26.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.270Z</updated>
     
     <content type="html"><![CDATA[<h3 id="¿Que-es-homebrew"><a href="#¿Que-es-homebrew" class="headerlink" title="¿Que es homebrew?"></a>¿Que es homebrew?</h3><p>Homebrew es un gestor de paquetes esencial para OSX, desarrollado en ruby y para los que vienen de linux, funciona parecido a <code>apt-get</code> o <code>yum</code>.</p>
 <a id="more"></a>
@@ -627,7 +629,7 @@
     <link href="https://luisfuentes.me/ror-debian/"/>
     <id>https://luisfuentes.me/ror-debian/</id>
     <published>2013-06-03T16:05:53.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Instalacion"><a href="#Instalacion" class="headerlink" title="Instalación"></a>Instalación</h3><p>El primer paso para instalar <a href="http://rubyonrails.org" target="_blank" rel="external">RoR</a> es instalar ruby, abre el terminal y:</p>
 <pre><code>$ aptitude install ruby
@@ -687,7 +689,7 @@
     <link href="https://luisfuentes.me/opengts-rulefactory/"/>
     <id>https://luisfuentes.me/opengts-rulefactory/</id>
     <published>2012-08-02T16:10:17.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<p>Primero activamos las casillas en OpenGTS y los campos en la BD</p>
 <p>En el archivo StartupInit.java modificamos:</p>
@@ -726,7 +728,7 @@
     <link href="https://luisfuentes.me/instalacion-opengts-linux/"/>
     <id>https://luisfuentes.me/instalacion-opengts-linux/</id>
     <published>2012-02-24T15:52:26.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Introduccion"><a href="#Introduccion" class="headerlink" title="Introducción"></a>Introducción</h3><p>OpenGTS™ (“Open GPS Tracking System”) es el primer proyecto código abierto diseñado para proporcionar mediante un entorno web el seguimiento de una “flota” de vehículos a través de GPS.</p>
 <p>Diseñado en Java y JavaScript utilizando tecnologías tales como Apache Tomcat para el despliegue de servicios web y MySQL para el almacenamiento de datos. Como tal, OpenGTS se ejecutará en cualquier S.O. que soporte estas tecnologías (incluyendo Linux, Mac OS X, FreeBSD, OpenBSD, Solaris, Windows XP, Windows Vista, 20XX de Windows, y más).</p>
@@ -829,7 +831,7 @@
     <link href="https://luisfuentes.me/hola-mundo/"/>
     <id>https://luisfuentes.me/hola-mundo/</id>
     <published>2012-01-20T15:47:41.000Z</published>
-    <updated>2016-09-11T23:24:13.039Z</updated>
+    <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<figure class="highlight cs"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title">HolaMundo</span></div><div class="line">&#123;</div><div class="line">  <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span>(<span class="params">String[] args</span>)</span></div><div class="line">  &#123;</div><div class="line">    System.<span class="keyword">out</span>.println(<span class="string">"Hola Mundo"</span>);</div><div class="line">  &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 ]]></content>
