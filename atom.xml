@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>luisfuentes.me</title>
+  <title>luis-fuentes.github.io</title>
   <subtitle>Guías y reseñas.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://luisfuentes.me/"/>
+  <link href="https://luis-fuentes.github.io/"/>
   <updated>2016-09-11T23:45:55.274Z</updated>
-  <id>https://luisfuentes.me/</id>
+  <id>https://luis-fuentes.github.io/</id>
   
   <author>
     <name>Luis Fuentes</name>
-    <email>hola@luisfuentes.me</email>
+    <email>lfuentesreyes@gmail.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Guía React Native + Firebase</title>
-    <link href="https://luisfuentes.me/guia-react-native-firebase/"/>
-    <id>https://luisfuentes.me/guia-react-native-firebase/</id>
+    <link href="https://luis-fuentes.github.io/guia-react-native-firebase/"/>
+    <id>https://luis-fuentes.github.io/guia-react-native-firebase/</id>
     <published>2016-07-11T19:20:33.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
@@ -60,22 +60,22 @@
     </summary>
     
     
-      <category term="OS X" scheme="https://luisfuentes.me/tags/OS-X/"/>
+      <category term="OS X" scheme="https://luis-fuentes.github.io/tags/OS-X/"/>
     
-      <category term="Guías" scheme="https://luisfuentes.me/tags/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/tags/Guias/"/>
     
-      <category term="React" scheme="https://luisfuentes.me/tags/React/"/>
+      <category term="React" scheme="https://luis-fuentes.github.io/tags/React/"/>
     
-      <category term="React Native" scheme="https://luisfuentes.me/tags/React-Native/"/>
+      <category term="React Native" scheme="https://luis-fuentes.github.io/tags/React-Native/"/>
     
-      <category term="Firebase" scheme="https://luisfuentes.me/tags/Firebase/"/>
+      <category term="Firebase" scheme="https://luis-fuentes.github.io/tags/Firebase/"/>
     
   </entry>
   
   <entry>
     <title>¿Qué tan seguido deberías publicar en Facebook?</title>
-    <link href="https://luisfuentes.me/que-tan-seguido-publicar-facebook/"/>
-    <id>https://luisfuentes.me/que-tan-seguido-publicar-facebook/</id>
+    <link href="https://luis-fuentes.github.io/que-tan-seguido-publicar-facebook/"/>
+    <id>https://luis-fuentes.github.io/que-tan-seguido-publicar-facebook/</id>
     <published>2016-06-06T02:38:05.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
@@ -105,18 +105,18 @@
     </summary>
     
     
-      <category term="Guías" scheme="https://luisfuentes.me/tags/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/tags/Guias/"/>
     
-      <category term="Facebook" scheme="https://luisfuentes.me/tags/Facebook/"/>
+      <category term="Facebook" scheme="https://luis-fuentes.github.io/tags/Facebook/"/>
     
-      <category term="Redes Sociales" scheme="https://luisfuentes.me/tags/Redes-Sociales/"/>
+      <category term="Redes Sociales" scheme="https://luis-fuentes.github.io/tags/Redes-Sociales/"/>
     
   </entry>
   
   <entry>
     <title>Guía Travis CI</title>
-    <link href="https://luisfuentes.me/guia-travis-ci/"/>
-    <id>https://luisfuentes.me/guia-travis-ci/</id>
+    <link href="https://luis-fuentes.github.io/guia-travis-ci/"/>
+    <id>https://luis-fuentes.github.io/guia-travis-ci/</id>
     <published>2016-03-02T20:14:22.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
@@ -144,24 +144,24 @@
     </summary>
     
     
-      <category term="OS X" scheme="https://luisfuentes.me/tags/OS-X/"/>
+      <category term="OS X" scheme="https://luis-fuentes.github.io/tags/OS-X/"/>
     
-      <category term="Guías" scheme="https://luisfuentes.me/tags/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/tags/Guias/"/>
     
-      <category term="Travis" scheme="https://luisfuentes.me/tags/Travis/"/>
+      <category term="Travis" scheme="https://luis-fuentes.github.io/tags/Travis/"/>
     
-      <category term="CI" scheme="https://luisfuentes.me/tags/CI/"/>
+      <category term="CI" scheme="https://luis-fuentes.github.io/tags/CI/"/>
     
   </entry>
   
   <entry>
     <title>Desarrollando con Webpack</title>
-    <link href="https://luisfuentes.me/desarrollando-con-webpack/"/>
-    <id>https://luisfuentes.me/desarrollando-con-webpack/</id>
+    <link href="https://luis-fuentes.github.io/desarrollando-con-webpack/"/>
+    <id>https://luis-fuentes.github.io/desarrollando-con-webpack/</id>
     <published>2015-08-25T01:04:25.000Z</published>
     <updated>2016-09-11T23:45:55.270Z</updated>
     
-    <content type="html"><![CDATA[<p>En <a href="https://luisfuentes.me/primeros-pasos-webpack/">primeros pasos con Webpack</a> generamos un proyecto básico pero teníamos que ejecutar <em>$ npm run build</em> cada vez que hacíamos un cambio… y adicionalmente refrescar el browser. Con algunos simples cambios intentaremos mejorar nuestro workflow de trabajo.  </p>
+    <content type="html"><![CDATA[<p>En <a href="https://luis-fuentes.github.io/primeros-pasos-webpack/">primeros pasos con Webpack</a> generamos un proyecto básico pero teníamos que ejecutar <em>$ npm run build</em> cada vez que hacíamos un cambio… y adicionalmente refrescar el browser. Con algunos simples cambios intentaremos mejorar nuestro workflow de trabajo.  </p>
 <a id="more"></a>
 <p>Lo primero es instalar webpack-dev-server</p>
 <pre><code>$ npm i webpack-dev-server --save-dev
@@ -214,27 +214,27 @@
     
     <summary type="html">
     
-      &lt;p&gt;En &lt;a href=&quot;https://luisfuentes.me/primeros-pasos-webpack/&quot;&gt;primeros pasos con Webpack&lt;/a&gt; generamos un proyecto básico pero teníamos que ejecutar &lt;em&gt;$ npm run build&lt;/em&gt; cada vez que hacíamos un cambio… y adicionalmente refrescar el browser. Con algunos simples cambios intentaremos mejorar nuestro workflow de trabajo.  &lt;/p&gt;
+      &lt;p&gt;En &lt;a href=&quot;https://luis-fuentes.github.io/primeros-pasos-webpack/&quot;&gt;primeros pasos con Webpack&lt;/a&gt; generamos un proyecto básico pero teníamos que ejecutar &lt;em&gt;$ npm run build&lt;/em&gt; cada vez que hacíamos un cambio… y adicionalmente refrescar el browser. Con algunos simples cambios intentaremos mejorar nuestro workflow de trabajo.  &lt;/p&gt;
     
     </summary>
     
     
-      <category term="Guías" scheme="https://luisfuentes.me/tags/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/tags/Guias/"/>
     
-      <category term="Javascript" scheme="https://luisfuentes.me/tags/Javascript/"/>
+      <category term="Javascript" scheme="https://luis-fuentes.github.io/tags/Javascript/"/>
     
-      <category term="Webpack" scheme="https://luisfuentes.me/tags/Webpack/"/>
+      <category term="Webpack" scheme="https://luis-fuentes.github.io/tags/Webpack/"/>
     
   </entry>
   
   <entry>
     <title>Primeros pasos con Webpack</title>
-    <link href="https://luisfuentes.me/primeros-pasos-webpack/"/>
-    <id>https://luisfuentes.me/primeros-pasos-webpack/</id>
+    <link href="https://luis-fuentes.github.io/primeros-pasos-webpack/"/>
+    <id>https://luis-fuentes.github.io/primeros-pasos-webpack/</id>
     <published>2015-07-13T02:45:44.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
-    <content type="html"><![CDATA[<p>Para continuar la <a href="https://luisfuentes.me/introduccion-webpack/">introducción</a> a Webpack voy a implementar un proyecto básico.<br>Primero asegúrate que tienes instalado NodeJS y <a href="https://luisfuentes.me/guia-npm/">NPM</a>. Luego en el terminal ejecutamos.</p>
+    <content type="html"><![CDATA[<p>Para continuar la <a href="https://luis-fuentes.github.io/introduccion-webpack/">introducción</a> a Webpack voy a implementar un proyecto básico.<br>Primero asegúrate que tienes instalado NodeJS y <a href="https://luis-fuentes.github.io/guia-npm/">NPM</a>. Luego en el terminal ejecutamos.</p>
 <a id="more"></a>
 <figure class="highlight stata"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">$ <span class="keyword">mkdir</span> webpack-<span class="keyword">app</span></div><div class="line">$ <span class="keyword">cd</span> webpack-<span class="keyword">app</span></div><div class="line">$ npm init</div></pre></td></tr></table></figure>
 <p>Esto iniciará nuestro proyecto y creará un nuevo package.json, luego instalamos Webpack y la librería browser de manera local y lo agregamos como una dependencia de desarrollo. </p>
@@ -267,23 +267,23 @@
     
     <summary type="html">
     
-      &lt;p&gt;Para continuar la &lt;a href=&quot;https://luisfuentes.me/introduccion-webpack/&quot;&gt;introducción&lt;/a&gt; a Webpack voy a implementar un proyecto básico.&lt;br&gt;Primero asegúrate que tienes instalado NodeJS y &lt;a href=&quot;https://luisfuentes.me/guia-npm/&quot;&gt;NPM&lt;/a&gt;. Luego en el terminal ejecutamos.&lt;/p&gt;
+      &lt;p&gt;Para continuar la &lt;a href=&quot;https://luis-fuentes.github.io/introduccion-webpack/&quot;&gt;introducción&lt;/a&gt; a Webpack voy a implementar un proyecto básico.&lt;br&gt;Primero asegúrate que tienes instalado NodeJS y &lt;a href=&quot;https://luis-fuentes.github.io/guia-npm/&quot;&gt;NPM&lt;/a&gt;. Luego en el terminal ejecutamos.&lt;/p&gt;
     
     </summary>
     
     
-      <category term="Guías" scheme="https://luisfuentes.me/tags/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/tags/Guias/"/>
     
-      <category term="Javascript" scheme="https://luisfuentes.me/tags/Javascript/"/>
+      <category term="Javascript" scheme="https://luis-fuentes.github.io/tags/Javascript/"/>
     
-      <category term="Webpack" scheme="https://luisfuentes.me/tags/Webpack/"/>
+      <category term="Webpack" scheme="https://luis-fuentes.github.io/tags/Webpack/"/>
     
   </entry>
   
   <entry>
     <title>Introducción a Webpack</title>
-    <link href="https://luisfuentes.me/introduccion-webpack/"/>
-    <id>https://luisfuentes.me/introduccion-webpack/</id>
+    <link href="https://luis-fuentes.github.io/introduccion-webpack/"/>
+    <id>https://luis-fuentes.github.io/introduccion-webpack/</id>
     <published>2015-06-25T02:48:45.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
@@ -311,7 +311,7 @@
     ]
   }
 };
-</code></pre><p>Para <a href="https://luisfuentes.me/primeros-pasos-webpack/"><strong>continuar</strong></a> solo queda desarrollar un proyecto en base a Webpack y así facilitar todo el proceso de desarrollo. </p>
+</code></pre><p>Para <a href="https://luis-fuentes.github.io/primeros-pasos-webpack/"><strong>continuar</strong></a> solo queda desarrollar un proyecto en base a Webpack y así facilitar todo el proceso de desarrollo. </p>
 ]]></content>
     
     <summary type="html">
@@ -321,18 +321,18 @@
     </summary>
     
     
-      <category term="Guías" scheme="https://luisfuentes.me/tags/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/tags/Guias/"/>
     
-      <category term="Javascript" scheme="https://luisfuentes.me/tags/Javascript/"/>
+      <category term="Javascript" scheme="https://luis-fuentes.github.io/tags/Javascript/"/>
     
-      <category term="Webpack" scheme="https://luisfuentes.me/tags/Webpack/"/>
+      <category term="Webpack" scheme="https://luis-fuentes.github.io/tags/Webpack/"/>
     
   </entry>
   
   <entry>
     <title>Desarrollando con ESLint y Sublime Text</title>
-    <link href="https://luisfuentes.me/desarrollando-con-eslint-y-sublime-text/"/>
-    <id>https://luisfuentes.me/desarrollando-con-eslint-y-sublime-text/</id>
+    <link href="https://luis-fuentes.github.io/desarrollando-con-eslint-y-sublime-text/"/>
+    <id>https://luis-fuentes.github.io/desarrollando-con-eslint-y-sublime-text/</id>
     <published>2015-05-24T02:55:52.000Z</published>
     <updated>2016-09-11T23:45:55.270Z</updated>
     
@@ -373,30 +373,30 @@
     </summary>
     
     
-      <category term="OS X" scheme="https://luisfuentes.me/tags/OS-X/"/>
+      <category term="OS X" scheme="https://luis-fuentes.github.io/tags/OS-X/"/>
     
-      <category term="Guías" scheme="https://luisfuentes.me/tags/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/tags/Guias/"/>
     
-      <category term="Javascript" scheme="https://luisfuentes.me/tags/Javascript/"/>
+      <category term="Javascript" scheme="https://luis-fuentes.github.io/tags/Javascript/"/>
     
-      <category term="ESLint" scheme="https://luisfuentes.me/tags/ESLint/"/>
+      <category term="ESLint" scheme="https://luis-fuentes.github.io/tags/ESLint/"/>
     
-      <category term="Sublime Text" scheme="https://luisfuentes.me/tags/Sublime-Text/"/>
+      <category term="Sublime Text" scheme="https://luis-fuentes.github.io/tags/Sublime-Text/"/>
     
-      <category term="Babel" scheme="https://luisfuentes.me/tags/Babel/"/>
+      <category term="Babel" scheme="https://luis-fuentes.github.io/tags/Babel/"/>
     
-      <category term="ES6" scheme="https://luisfuentes.me/tags/ES6/"/>
+      <category term="ES6" scheme="https://luis-fuentes.github.io/tags/ES6/"/>
     
-      <category term="ES2015" scheme="https://luisfuentes.me/tags/ES2015/"/>
+      <category term="ES2015" scheme="https://luis-fuentes.github.io/tags/ES2015/"/>
     
-      <category term="ReactJS" scheme="https://luisfuentes.me/tags/ReactJS/"/>
+      <category term="ReactJS" scheme="https://luis-fuentes.github.io/tags/ReactJS/"/>
     
   </entry>
   
   <entry>
     <title>Desarrollando sitios estáticos con Hugo</title>
-    <link href="https://luisfuentes.me/desarrollando-sitios-estaticos-con-hugo/"/>
-    <id>https://luisfuentes.me/desarrollando-sitios-estaticos-con-hugo/</id>
+    <link href="https://luis-fuentes.github.io/desarrollando-sitios-estaticos-con-hugo/"/>
+    <id>https://luis-fuentes.github.io/desarrollando-sitios-estaticos-con-hugo/</id>
     <published>2015-05-08T17:45:29.000Z</published>
     <updated>2016-09-11T23:45:55.270Z</updated>
     
@@ -421,18 +421,18 @@
     </summary>
     
     
-      <category term="Guías" scheme="https://luisfuentes.me/tags/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/tags/Guias/"/>
     
-      <category term="Static" scheme="https://luisfuentes.me/tags/Static/"/>
+      <category term="Static" scheme="https://luis-fuentes.github.io/tags/Static/"/>
     
-      <category term="Web" scheme="https://luisfuentes.me/tags/Web/"/>
+      <category term="Web" scheme="https://luis-fuentes.github.io/tags/Web/"/>
     
   </entry>
   
   <entry>
     <title>Guía Vagrant</title>
-    <link href="https://luisfuentes.me/guia-vagrant/"/>
-    <id>https://luisfuentes.me/guia-vagrant/</id>
+    <link href="https://luis-fuentes.github.io/guia-vagrant/"/>
+    <id>https://luis-fuentes.github.io/guia-vagrant/</id>
     <published>2015-01-15T17:48:06.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
@@ -463,25 +463,25 @@
     </summary>
     
     
-      <category term="OS X" scheme="https://luisfuentes.me/tags/OS-X/"/>
+      <category term="OS X" scheme="https://luis-fuentes.github.io/tags/OS-X/"/>
     
-      <category term="Guías" scheme="https://luisfuentes.me/tags/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/tags/Guias/"/>
     
-      <category term="Vagrant" scheme="https://luisfuentes.me/tags/Vagrant/"/>
+      <category term="Vagrant" scheme="https://luis-fuentes.github.io/tags/Vagrant/"/>
     
   </entry>
   
   <entry>
     <title>Guía NPM</title>
-    <link href="https://luisfuentes.me/guia-npm/"/>
-    <id>https://luisfuentes.me/guia-npm/</id>
+    <link href="https://luis-fuentes.github.io/guia-npm/"/>
+    <id>https://luis-fuentes.github.io/guia-npm/</id>
     <published>2014-11-22T17:48:32.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
     <content type="html"><![CDATA[<h3 id="¿Que-es-NPM"><a href="#¿Que-es-NPM" class="headerlink" title="¿Que es NPM?"></a>¿Que es NPM?</h3><p><a href="https://www.npmjs.com/" target="_blank" rel="external">NPM</a> es un gestor de paquetes para javascript, hace algunas versiones es el gestor predeterminado de nodejs y con el podremos gestionar los paquetes para nuestras aplicaciones. </p>
 <a id="more"></a>
 <p><img src="/images/npm.png" alt="NPM logo"></p>
-<p>Viene instalado por defecto con la instalación de nodejs pero si no lo tienes, lo puedes instalar a través de <a href="https://luisfuentes.me/guia-homebrew/">Homebrew</a> con el siguiente comando:</p>
+<p>Viene instalado por defecto con la instalación de nodejs pero si no lo tienes, lo puedes instalar a través de <a href="https://luis-fuentes.github.io/guia-homebrew/">Homebrew</a> con el siguiente comando:</p>
 <pre><code>$ brew install node
 </code></pre><h3 id="¿Ahora"><a href="#¿Ahora" class="headerlink" title="¿Ahora?"></a>¿Ahora?</h3><ul>
 <li><p>Primero creamos una aplicación, esto nos generará un archivo <strong>package.json</strong> que contiene la configuración inicial de nuestro proyecto y donde posteriormente guardaremos las dependencias de esta mismo. Para instalar ejecutamos:</p>
@@ -512,18 +512,18 @@
     </summary>
     
     
-      <category term="OS X" scheme="https://luisfuentes.me/tags/OS-X/"/>
+      <category term="OS X" scheme="https://luis-fuentes.github.io/tags/OS-X/"/>
     
-      <category term="Guías" scheme="https://luisfuentes.me/tags/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/tags/Guias/"/>
     
-      <category term="NPM" scheme="https://luisfuentes.me/tags/NPM/"/>
+      <category term="NPM" scheme="https://luis-fuentes.github.io/tags/NPM/"/>
     
   </entry>
   
   <entry>
     <title>Guía Yeoman</title>
-    <link href="https://luisfuentes.me/guia-yeoman/"/>
-    <id>https://luisfuentes.me/guia-yeoman/</id>
+    <link href="https://luis-fuentes.github.io/guia-yeoman/"/>
+    <id>https://luis-fuentes.github.io/guia-yeoman/</id>
     <published>2014-07-05T15:26:26.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
@@ -573,18 +573,18 @@
     </summary>
     
     
-      <category term="OS X" scheme="https://luisfuentes.me/tags/OS-X/"/>
+      <category term="OS X" scheme="https://luis-fuentes.github.io/tags/OS-X/"/>
     
-      <category term="Guías" scheme="https://luisfuentes.me/tags/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/tags/Guias/"/>
     
-      <category term="Yeoman" scheme="https://luisfuentes.me/tags/Yeoman/"/>
+      <category term="Yeoman" scheme="https://luis-fuentes.github.io/tags/Yeoman/"/>
     
   </entry>
   
   <entry>
     <title>Guía Homebrew</title>
-    <link href="https://luisfuentes.me/guia-homebrew/"/>
-    <id>https://luisfuentes.me/guia-homebrew/</id>
+    <link href="https://luis-fuentes.github.io/guia-homebrew/"/>
+    <id>https://luis-fuentes.github.io/guia-homebrew/</id>
     <published>2014-04-23T15:26:26.000Z</published>
     <updated>2016-09-11T23:45:55.270Z</updated>
     
@@ -615,19 +615,19 @@
     
     </summary>
     
-      <category term="OS X" scheme="https://luisfuentes.me/categories/OS-X/"/>
+      <category term="OS X" scheme="https://luis-fuentes.github.io/categories/OS-X/"/>
     
-      <category term="Guías" scheme="https://luisfuentes.me/categories/OS-X/Guias/"/>
+      <category term="Guías" scheme="https://luis-fuentes.github.io/categories/OS-X/Guias/"/>
     
-      <category term="Homebrew" scheme="https://luisfuentes.me/categories/OS-X/Guias/Homebrew/"/>
+      <category term="Homebrew" scheme="https://luis-fuentes.github.io/categories/OS-X/Guias/Homebrew/"/>
     
     
   </entry>
   
   <entry>
     <title>Ruby On Rails en Debian</title>
-    <link href="https://luisfuentes.me/ror-debian/"/>
-    <id>https://luisfuentes.me/ror-debian/</id>
+    <link href="https://luis-fuentes.github.io/ror-debian/"/>
+    <id>https://luis-fuentes.github.io/ror-debian/</id>
     <published>2013-06-03T16:05:53.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
@@ -674,20 +674,20 @@
     </summary>
     
     
-      <category term="ror" scheme="https://luisfuentes.me/tags/ror/"/>
+      <category term="ror" scheme="https://luis-fuentes.github.io/tags/ror/"/>
     
-      <category term="ruby" scheme="https://luisfuentes.me/tags/ruby/"/>
+      <category term="ruby" scheme="https://luis-fuentes.github.io/tags/ruby/"/>
     
-      <category term="debian" scheme="https://luisfuentes.me/tags/debian/"/>
+      <category term="debian" scheme="https://luis-fuentes.github.io/tags/debian/"/>
     
-      <category term="guia" scheme="https://luisfuentes.me/tags/guia/"/>
+      <category term="guia" scheme="https://luis-fuentes.github.io/tags/guia/"/>
     
   </entry>
   
   <entry>
     <title>Crear un RuleFactory en OpenGTS</title>
-    <link href="https://luisfuentes.me/opengts-rulefactory/"/>
-    <id>https://luisfuentes.me/opengts-rulefactory/</id>
+    <link href="https://luis-fuentes.github.io/opengts-rulefactory/"/>
+    <id>https://luis-fuentes.github.io/opengts-rulefactory/</id>
     <published>2012-08-02T16:10:17.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
@@ -725,8 +725,8 @@
   
   <entry>
     <title>Instalar OpenGTS en Linux</title>
-    <link href="https://luisfuentes.me/instalacion-opengts-linux/"/>
-    <id>https://luisfuentes.me/instalacion-opengts-linux/</id>
+    <link href="https://luis-fuentes.github.io/instalacion-opengts-linux/"/>
+    <id>https://luis-fuentes.github.io/instalacion-opengts-linux/</id>
     <published>2012-02-24T15:52:26.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
@@ -818,18 +818,18 @@
     </summary>
     
     
-      <category term="Java" scheme="https://luisfuentes.me/tags/Java/"/>
+      <category term="Java" scheme="https://luis-fuentes.github.io/tags/Java/"/>
     
-      <category term="OpenGTS" scheme="https://luisfuentes.me/tags/OpenGTS/"/>
+      <category term="OpenGTS" scheme="https://luis-fuentes.github.io/tags/OpenGTS/"/>
     
-      <category term="Linux" scheme="https://luisfuentes.me/tags/Linux/"/>
+      <category term="Linux" scheme="https://luis-fuentes.github.io/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>Hola Mundo</title>
-    <link href="https://luisfuentes.me/hola-mundo/"/>
-    <id>https://luisfuentes.me/hola-mundo/</id>
+    <link href="https://luis-fuentes.github.io/hola-mundo/"/>
+    <id>https://luis-fuentes.github.io/hola-mundo/</id>
     <published>2012-01-20T15:47:41.000Z</published>
     <updated>2016-09-11T23:45:55.274Z</updated>
     
@@ -843,7 +843,7 @@
     </summary>
     
     
-      <category term="Java" scheme="https://luisfuentes.me/tags/Java/"/>
+      <category term="Java" scheme="https://luis-fuentes.github.io/tags/Java/"/>
     
   </entry>
   
