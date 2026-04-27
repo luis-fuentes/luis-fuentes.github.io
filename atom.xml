@@ -5,16 +5,25 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://luis-fuentes.github.io/"/>
-  <updated>2016-09-11T23:45:55.274Z</updated>
+  <updated>2026-04-27T00:00:00.000Z</updated>
   <id>https://luis-fuentes.github.io/</id>
-  
+
   <author>
     <name>Luis Fuentes</name>
     <email>lfuentesreyes@gmail.com</email>
   </author>
-  
+
   <generator uri="http://hexo.io/">Hexo</generator>
-  
+
+  <entry>
+    <title>Proyectos Actuales</title>
+    <link href="https://luis-fuentes.github.io/proyectos-actuales/"/>
+    <id>https://luis-fuentes.github.io/proyectos-actuales/</id>
+    <published>2026-04-27T00:00:00.000Z</published>
+    <updated>2026-04-27T00:00:00.000Z</updated>
+    <content type="html"><![CDATA[<p>Estos son los proyectos en los que estoy trabajando actualmente:</p><ul><li><a href="https://somosmaqui.com">Maqui</a></li><li><a href="https://mochileroschile.com">Mochileros Chile</a></li></ul>]]></content>
+  </entry>
+
   <entry>
     <title>Guía React Native + Firebase</title>
     <link href="https://luis-fuentes.github.io/guia-react-native-firebase/"/>
